@@ -1,6 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=kwhis&color=green)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=kwhis&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 ## Hi there 👋 I'm Kelsey Whisler 
 
 - 🔭 I’m currently working on **certifications**
@@ -10,7 +8,7 @@
 - 📫 How to reach me: [contact@kelswhis.com](mailto:contact@kelswhis.com)
 - ⚡ Fun fact: **I love reading & trying new things!**
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=kwhis&margin-w=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## My Top Languages
 | Rank | Languages |
