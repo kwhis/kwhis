@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on **certifications**
 - 🌱 I’m currently learning **Bootstrap**
 - 👯 I’m looking to collaborate on **a mobile app**
-- 💬 Ask me about **my pets**
+- 💬 Ask me about **my latest Canva project**
 - 📫 How to reach me: [contact@kelswhis.com](mailto:contact@kelswhis.com)
 - ⚡ Fun fact: **I love reading & trying new things!**
 
