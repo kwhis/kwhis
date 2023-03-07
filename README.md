@@ -1,9 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=kwhis&color=green)
-## Hi there 👋 I'm Kelsey Whisler 
 
-- 🔭 I’m currently working on **certifications**
+![header](https://capsule-render.vercel.app/api?type=cylinder&text=Hi%20there%20👋%20I'm%20Kelsey%20Whisler&fontSize=40&animation=fadeIn&theme=gruvbox_light)
+## About Me
+
+- 🔭 I’m currently working on **earning a certification**
 - 🌱 I’m currently learning **Bootstrap**
-- 👯 I’m looking to collaborate on **a mobile app**
+- 👯 I’m looking to collaborate on **a web app**
 - 💬 Ask me about **my latest Canva project**
 - 📫 How to reach me: [contact@kelswhis.com](mailto:contact@kelswhis.com)
 - ⚡ Fun fact: **I love reading & trying new things!**
